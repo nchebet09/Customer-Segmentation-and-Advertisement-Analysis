@@ -2,7 +2,7 @@
 * Customer-Segmentation-and-Advertisement-Analysis
 
 # Author
-Naomi Chebet
+* Naomi Chebet
 
 # Project Description
 
@@ -19,4 +19,4 @@ Here is a summary of the projects context:
 # Contact Information
 * For any questions or concerns, feel free to reach me via my email – naomichebet29@gmail.com
 # License
-Moringa School
+* Moringa School
