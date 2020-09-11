@@ -1,5 +1,5 @@
 # Title
-Customer-Segmentation-and-Advertisement-Analysis
+* Customer-Segmentation-and-Advertisement-Analysis
 
 # Author
 Naomi Chebet
@@ -15,7 +15,7 @@ Here is a summary of the projects context:
 * R-programming language
 
 # Accessing this Project
-
+* git clone: https://github.com/nchebet09/Customer-Segmentation-and-Advertisement-Analysis.git
 # Contact Information
 * For any questions or concerns, feel free to reach me via my email – naomichebet29@gmail.com
 # License
